@@ -1,1 +1,1 @@
-
+This assignment was something new for me because I had a lot of folders in the same project. The most confusing part for me is that I am not completely confident where should I create different files.
